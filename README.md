@@ -50,6 +50,6 @@ wget -O cloudflare.sh https://raw.githubusercontent.com/SofianeHamlaoui/cloudfla
 
 2. Download the **cloudflare.ps1** script 
 
-3. run the script with the right information
+3. Run the script with the right information
 
 ![](https://i.imgur.com/vqrH5Jn.png)
